@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+D:\mtnguyen\workspace\ApolloEcho_Dev_Kit\pcb\rev100\usb_serial_daughter\Project Outputs for usb_serial_daughter\Generate Files\Pick Place\Pick Place for usb_serial_daughter.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/12/24
+Time:       17:26
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer    Footprint                       Center-X(mm) Center-Y(mm) Rotation Description                                                                             
+R3         ERJ2GE0R00X     TopLayer RESC1005X40X25LL05T05           93.3960mm    88.6000mm    90       "Chip Resistor, 0 Ohm, 0.1 W, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel" 
+U1         CH340C          TopLayer CH340C                          100.0000mm   104.4450mm   0        "USB to Serial CH340 IC"                                                                
+R2         RMCF0402FT1K00  TopLayer FP-RMCF0402-IPC_A               99.2500mm    97.0000mm    270      "1kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"                       
+R1         RMCF0402FT1K00  TopLayer FP-RMCF0402-IPC_A               97.7500mm    97.0000mm    270      "1kO ±1% 0.063W 0402 Thick Film Chip Resistor AEC-Q200 compliant"                       
+J2         61300811121     TopLayer 61300811121                     106.4770mm   100.0000mm   90       ""                                                                                      
+J1         61300811121     TopLayer 61300811121                     93.3960mm    100.0000mm   90       ""                                                                                      
+D2         150060RS75000   TopLayer WL-SMCW_0603_150060xx75000      99.2500mm    94.0000mm    270      "LED Low-Power Uni-Color Red 630nm 2V 2-Pin Chip 0603(1608Metric) T/R"                  
+D1         150060VS75000   TopLayer WL-SMCW_0603_150060xx75000      97.7500mm    94.0000mm    270      "WURTH ELEKTRONIK - 150060VS75000 - LED, Green, SMD, 0603, 30 mA, 2 V, 570 nm"          
+C2         EMK105BJ105KV-F TopLayer FP-0402-L_1_0_0_05-W_0_5-IPC_A  102.2500mm   97.0000mm    270      None                                                                                    
+C1         0402ZD104KAT2A  TopLayer FP-0402-L_1_0_1-W_0_5_0_1-IPC_C 100.7500mm   97.0000mm    270      "General Purpose Ceramic Capacitor, 0402, 100nF, 10%, X5R, 15%, 10V"                    

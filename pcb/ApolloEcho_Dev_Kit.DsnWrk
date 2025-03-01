@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=rev100\ApolloEcho_Dev_Kit\ApolloEcho_Dev_Kit.PrjPcb
+[Project2]
+ProjectPath=rev100\usb_serial_daughter\usb_serial_daughter.PrjPcb
