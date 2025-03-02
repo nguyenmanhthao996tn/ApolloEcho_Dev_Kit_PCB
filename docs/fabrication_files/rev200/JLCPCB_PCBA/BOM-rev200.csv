@@ -1,0 +1,14 @@
+﻿Comment,Designator,Footprint,JLCPCB Part #（optional）
+16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,"C1, C2, C5, C6, C9, C12, C14, C17, C31",0402,C1525
+25V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,"C3, C4, C7, C8, C10, C13, C15, C18",0402,C52923
+6.3V 2.2uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,"C11, C16",0402,C12530
+-40℃~+85℃ Red 0603 LED Indication - Discrete ROHS,D1,0603,C2286
+White 0603 LED Indication - Discrete ROHS,D2,0603,C2290
+62.5mW Thick Film Resistors 50V ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS,"L1, L2, L3, L4, L5, L6",0402,C17168
+62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 1kΩ 0402 Chip Resistor - Surface Mount ROHS,"R1, R2",0402,C11702
+3.2mm 2.5mm Oval button 50mA Standing paste 4.2mm SPST 16V SMD Tactile Switches ROHS,"SW_RST, SW_U1, SW_U2",SMD,C115360
+LDO Voltage Regulators 200 mA ultra-low quiescent current LDO,"U3, U4, U5, U6",SOT-323-5,C2970558
+SOP-16 USB Converters ROHS,U7,SOP-16,C7464026
+1 Inner Hole SMA Board-End Staggered pins 50Ω 5.2mm SMD Coaxial Connectors (RF) ROHS,"J9, J10, J11, J12, J13, J14",SMD,C496550
+1.8A USB 2.0 1 Horizontal attachment 5P Female -20℃~+85℃ Micro-B SMD USB Connectors ROHS,J6,SMD,C404969
+1x2P -40℃~+105℃ 12A 300V Green 14~26 Direct Insert 5.08mm 1 2 P=5.08mm Screw Terminal Blocks ROHS,J7,P=5.08mm,C3018698
