@@ -6,6 +6,11 @@ The **ApolloEcho Dev Kit** includes two primary components: the **RAKwireless RA
 
 ## Rev 200 (Version 2.0.0)
 
+### Changelog
+
+- Add integrated CH340C USB TTL IC
+- Integrated USB TTL IC can interact with both RAK11720 and EM2050
+
 |                        Top View                        |                        Bottom View                        |
 | :----------------------------------------------------: | :-------------------------------------------------------: |
 | ![](./docs/img/rev200/ApolloEcho_Dev_Kit-top_view.png) | ![](./docs/img/rev200/ApolloEcho_Dev_Kit-bottom_view.png) |
