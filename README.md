@@ -4,6 +4,19 @@ This repository contains the PCB designs, related documents, and source code for
 
 The **ApolloEcho Dev Kit** includes two primary components: the **RAKwireless RAK11720** and the **EchoStar Mobile EM2050**. It is designed to provide a rapid and efficient approach to getting started with the EchoStar Mobile satellite network. All pinouts for the two modules are available in standard 2.54mm headers. The antenna is fully customizable via 6 SMA connectors.
 
+## Rev 210 (Version 2.1.0)
+
+### Changelog
+
+- Change EM_RTS from PB12 to PA10
+- Change J16 Pin 7 from PA10 to PB12
+- Change J17 Pin 4 from PA10 to PB12
+- Add 1 MOhm (R3) pull-down resistor for LDO_EM_PWR_EN
+
+|                        Top View                        |                        Bottom View                        |
+| :----------------------------------------------------: | :-------------------------------------------------------: |
+| ![](./docs/img/rev210/ApolloEcho_Dev_Kit-top_view.png) | ![](./docs/img/rev210/ApolloEcho_Dev_Kit-bottom_view.png) |
+
 ## Rev 200 (Version 2.0.0)
 
 ### Changelog
